@@ -8,7 +8,7 @@ st.set_page_config(page_title="Superstore Dashboard",page_icon="📊",layout="wi
 
 @st.cache_data(ttl=600)
 def load_data():
-    df=pd.read_csv(r"C:\Users\sanoo\OneDrive\Documents\Superstore Sales\output\Superstore_clean.csv",parse_dates=["Order Date","Ship Date"])
+    df=pd.read_csv("output\Superstore_clean.csv",parse_dates=["Order Date","Ship Date"])
     return df
 
 
