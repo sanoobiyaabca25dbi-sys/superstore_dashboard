@@ -15,7 +15,7 @@ def load_data():
 
 df=load_data()
 
-st.title("Superstore Sales Dashboard")
+st.title("📊Superstore Sales Dashboard")
 
 with st.sidebar:
     st.header("Filters")
