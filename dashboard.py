@@ -11,6 +11,7 @@ def load_data():
     df=pd.read_csv("data\Superstore_clean.csv",parse_dates=["Order Date","Ship Date"])
     return df
 
+#load data
 
 df=load_data()
 
