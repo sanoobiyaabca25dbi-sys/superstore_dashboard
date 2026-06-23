@@ -53,21 +53,6 @@ Streamlit
 Matplotlib
 Plotly
 
-📂 Project Structure
-superstore_app/
-│
-├── data/
-│   ├── samplesuperstore.csv
-│   └── superstore_clean.csv
-│
-├── .streamlit/
-│   └── config.toml
-│
-├── dashboard.py
-├── requirements.txt
-├── README.md
-└── screenshots/
-
 📸 Dashboard Preview
 
 
