@@ -3,6 +3,7 @@
 An interactive data analysis and visualization dashboard built using Python, Pandas, NumPy, Streamlit, Matplotlib, and Plotly. This project transforms raw Superstore sales data into actionable business insights through data preprocessing, KPI monitoring, interactive filtering, visual analytics, and data quality alerts.
 
 🚀 Features
+
 📁 Data Preprocessing
 Removed duplicate records
 Converted date columns to datetime format
@@ -12,6 +13,7 @@ Order Year
 Profit Margin %
 Renamed columns for cleaner code
 Exported cleaned dataset as superstore_clean.csv
+
 📊 Interactive Dashboard
 Region filter
 Year filter
@@ -20,6 +22,7 @@ Dynamic KPI cards:
 Total Sales
 Total Profit
 Average Discount
+
 📈 Visual Analytics
 Overview Tab
 Interactive sales data table
@@ -35,11 +38,13 @@ Profit margin health monitoring
 High discount detection using NumPy percentiles
 Sales outlier detection using Z-score analysis
 Expandable outlier records table
+
 ⚡ Performance Features
 Streamlit data caching with TTL
 Manual refresh button
 Download filtered data as CSV
 Custom Streamlit theme
+
 🛠️ Technologies Used
 Python
 Pandas
@@ -47,6 +52,7 @@ NumPy
 Streamlit
 Matplotlib
 Plotly
+
 📂 Project Structure
 superstore_app/
 │
@@ -64,8 +70,8 @@ superstore_app/
 
 📸 Dashboard Preview
 
-Add screenshots here after deployment:
 
+<img width="720" height="480" alt="dashboard_preview" src="https://github.com/user-attachments/assets/bc7ef772-5568-4fa2-b09c-a010fa1a36a6" />
 
 
 
