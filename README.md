@@ -1,4 +1,4 @@
-<img width="720" height="480" alt="dashboard_preview" src="https://github.com/user-attachments/assets/bc7ef772-5568-4fa2-b09c-a010fa1a36a6" />📊 Superstore Sales Dashboard
+📊 Superstore Sales Dashboard
 
 An interactive data analysis and visualization dashboard built using Python, Pandas, NumPy, Streamlit, Matplotlib, and Plotly. This project transforms raw Superstore sales data into actionable business insights through data preprocessing, KPI monitoring, interactive filtering, visual analytics, and data quality alerts.
 
